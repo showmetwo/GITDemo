@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is AAD2-5B42
+
+ Directory of C:\GITRepo\Project1
+
+16-Oct-19  05:18 PM    <DIR>          .
+16-Oct-19  05:18 PM    <DIR>          ..
+16-Oct-19  05:18 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  11,521,392,640 bytes free
